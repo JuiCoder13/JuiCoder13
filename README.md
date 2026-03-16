@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @RTCodez
-- 👀 I’m interested in Gaming and little coding
-- 🌱 I’m currently learning Science in Senior High
-- 💞️ I’m looking to collaborate on Javascript and Python
+Hello, my name is Levi
+I'm learning WebDev rn, currently working with React
+Nice to be here
 - 📫 How to reach me on btolu777@gmail.com
 
 <!---
